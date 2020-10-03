@@ -1,1 +1,1 @@
-# Eudomodo
+# Edumodo
